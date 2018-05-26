@@ -1,2 +1,1 @@
-# AndroidLogcatStdouts
-The repository is only for code distributing and issue tracking.
+Library for the redirection a stdouts from the native code to the Adroid's logcat.
